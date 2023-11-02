@@ -1,0 +1,9 @@
+﻿  Stress.cpp
+E:\WindowsProject\CPUStress\Stress\Stress\Stress.cpp(14,1): warning C4326: “main”的返回类型应为“int”而非“void”
+E:\WindowsProject\CPUStress\Stress\Stress\Stress.cpp(16,21): warning C4101: “hThread1”: 未引用的局部变量
+E:\WindowsProject\CPUStress\Stress\Stress\Stress.cpp(16,41): warning C4101: “hThread3”: 未引用的局部变量
+E:\WindowsProject\CPUStress\Stress\Stress\Stress.cpp(17,32): warning C4101: “threadId2”: 未引用的局部变量
+E:\WindowsProject\CPUStress\Stress\Stress\Stress.cpp(17,43): warning C4101: “threadId3”: 未引用的局部变量
+E:\WindowsProject\CPUStress\Stress\Stress\Stress.cpp(16,31): warning C4101: “hThread2”: 未引用的局部变量
+E:\WindowsProject\CPUStress\Stress\Stress\Stress.cpp(17,21): warning C4101: “threadId1”: 未引用的局部变量
+  Stress.vcxproj -> E:\WindowsProject\CPUStress\Stress\x64\Debug\Stress.exe
